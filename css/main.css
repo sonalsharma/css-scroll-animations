@@ -12,9 +12,16 @@ img {
 
 section {
 	padding: 10rem 0;
+	background: transparent url("../img/mars-pano.jpg") no-repeat center top;
+	background-size: cover;
 }
 
 .sun {
 
 	width:300px;
+}
+
+.dipper {
+	width: 200px;
+	opacity: 0;
 }
