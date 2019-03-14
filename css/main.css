@@ -17,9 +17,9 @@ section {
 
 .intro-section {
 	text-align: center;
-    	background-color: bisque;
     	font-family: monospace;
 	font-size: 2em;
+	padding: 1em;
 }
 
 .sun {
